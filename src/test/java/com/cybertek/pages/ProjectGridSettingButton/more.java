@@ -6,4 +6,7 @@ public class more {
     public static void main(String[] args) {
 //more
     }
+
+    //1236
+    //000000
 }
