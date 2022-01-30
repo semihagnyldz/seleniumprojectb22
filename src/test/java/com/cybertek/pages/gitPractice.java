@@ -7,6 +7,7 @@ public class gitPractice {
     //isim ekleme
     //isim ekleme again
     //isim ekleme en son
+    //more more
 
 
 }
