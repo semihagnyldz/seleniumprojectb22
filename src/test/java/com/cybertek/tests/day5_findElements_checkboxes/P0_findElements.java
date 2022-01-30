@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class P0_findElements {
+    //notfinished, couldnt' find the solution on canvas
     public static void main(String[] args) {
         //1-open chrome browser
         WebDriver driver= WebDriverFactory.getDriver("chrome");

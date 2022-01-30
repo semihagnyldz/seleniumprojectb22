@@ -1,4 +1,4 @@
-package day3_reviews_practices;
+package com.cybertek.tests.day3_reviews_practices;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
